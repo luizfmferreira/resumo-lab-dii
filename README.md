@@ -7,7 +7,7 @@ Tópicos Nuvens;
 
 Azure:
   É possível migrar infraestrutura, aplicativos e dados de datacenters locais ou outras nuvens para o Azure.
-  Dá para utilizar IA e Machine Learning ao nossos aplicativos
+  Dá para utilizar IA e Machine Learning em nossos aplicativos
   Aplicativos escaláveis
   Infra estrutura baseadas em Linux
   Utilização de Serviços para criar, testar e implantar APP
